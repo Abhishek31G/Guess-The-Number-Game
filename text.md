@@ -1,5 +1,5 @@
 Guess the number game
-Ok so we have covered a lot of stuff so far. Let's put it all together and make a game. The game will be a guessing game where the user has to guess a number between 1 and 100.
+The game will be a guessing game where the user has to guess a number between 1 and 100.
 
 Instructions
 Generate a random number using the Math.random() function and store it in a variable.
